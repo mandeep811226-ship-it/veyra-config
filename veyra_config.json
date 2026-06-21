@@ -1,5 +1,5 @@
 { 
-  "general_pvp_locked": false,
+  "general_pvp_locked": true,
   "reason": "Sunday Speedrun At 23:30 pm ",
   "locked_by": "Amarjeet"
 }
